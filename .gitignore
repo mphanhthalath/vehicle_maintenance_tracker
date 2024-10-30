@@ -1,2 +1,4 @@
 # Ignore environment variable file
 .env
+#Ignore Firebase Private key
+vehicle-maintenance-trac-4a63d-firebase-adminsdk-rj4dk-345c5c9b06.json
